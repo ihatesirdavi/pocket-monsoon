@@ -1,0 +1,39 @@
+{
+    "schema":  "codename-product-home-v1",
+    "codename":  "Afterbell",
+    "repo":  "ihatesirdavi/afterbell",
+    "product_kind":  "interactive-investigation-game",
+    "visibility":  "PUBLIC",
+    "status":  "PUBLIC_STAGING_NO_IMPLEMENTATION",
+    "modules":  [
+                    {
+                        "name":  "interactive-scenes",
+                        "candidate":  true,
+                        "imported":  false,
+                        "accepted":  false,
+                        "tested_in_package_home":  false
+                    },
+                    {
+                        "name":  "state-model",
+                        "candidate":  true,
+                        "imported":  false,
+                        "accepted":  false,
+                        "tested_in_package_home":  false
+                    },
+                    {
+                        "name":  "evidence-notebook",
+                        "candidate":  true,
+                        "imported":  false,
+                        "accepted":  false,
+                        "tested_in_package_home":  false
+                    }
+                ],
+    "original_source_owner":  "NOT_DISCLOSED",
+    "private_source_intake":  "NOT_AUTHORIZED",
+    "public_code_release":  false,
+    "package_tested":  false,
+    "installed":  false,
+    "published":  false,
+    "auto_sync":  false,
+    "owner_accepted":  false
+}
