@@ -1,7 +1,7 @@
 {
     "schema":  "codename-product-home-v1",
-    "codename":  "Afterbell",
-    "repo":  "ihatesirdavi/afterbell",
+    "codename":  "Bellcipher",
+    "repo":  "ihatesirdavi/bellcipher",
     "product_kind":  "interactive-investigation-game",
     "visibility":  "PUBLIC",
     "status":  "PUBLIC_STAGING_NO_IMPLEMENTATION",
